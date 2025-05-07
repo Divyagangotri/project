@@ -35,7 +35,7 @@ The solution includes a multi-layered defense strategy:
 - **Operating System**: Kali Linux
 - **Programming Language**: Python
 - **Security Tools**: Wireshark, Nmap
-- **Libraries**: `keyboard`, `logging`, `os`, `pynput` (optional)
+- **Libraries**: `keyboard`, `logging`, `os`, `pynput` 
 - **Techniques**: Keystroke logging, network monitoring, anomaly detection
 
 
